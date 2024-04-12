@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0d5590-4a5f-41df-80be-9444f0991443" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sistema Audio_Musica.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AudioDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BluetoothSpeaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Headphones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VideoPlayer.java" afterDir="false" />
-    </list>
+    <list default="true" id="1a0d5590-4a5f-41df-80be-9444f0991443" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
